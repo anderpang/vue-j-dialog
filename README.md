@@ -45,11 +45,11 @@ page.vue
 
 ```javascript
 <template>
-  <button @click="btnClick" @close="onClose" @open="onOpen">打开弹窗（模板方式）</button>
+  <button @click="btnClick">打开弹窗（模板方式）</button>
 
   <button @click="btnClick2">打开弹窗（函数方式）</button>
 
-  <show-dialog v-model="isShow"> 
+  <show-dialog v-model="isShow" @close="onClose" @open="onOpen"> 
     <p>弹窗内容</p>
   </show-dialog>
 </template>
