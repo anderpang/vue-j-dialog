@@ -1,6 +1,6 @@
 # vue-j-dialog
 
-vue2.X 表单验证，简单易用。本来是自写的原生验证代码，稍作修改后成为vue验证插件。
+Dialog (Modal) component for Vue2.x
 
 ## npm
 
