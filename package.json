@@ -1,0 +1,19 @@
+{
+  "name": "vue-j-dialog",
+  "version": "1.0.0",
+  "description": "Dialog (Modal) component for Vue2.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anderpang/vue-j-dialog.git"
+  },
+  "author": "AnderPang <anderpang@foxmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderpang/vue-j-dialog/issues"
+  },
+  "homepage": "https://github.com/anderpang/vue-j-dialog#readme"
+}
