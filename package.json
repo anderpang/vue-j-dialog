@@ -1,6 +1,6 @@
 {
   "name": "vue-j-dialog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dialog (Modal) component for Vue2.x",
   "main": "index.js",
   "scripts": {
