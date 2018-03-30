@@ -82,7 +82,7 @@ export default {
                 content:"这是函数打开"
             })
             .$on("close",this.onClose)
-            .$on("open",this.onOpen).
+            .$on("open",this.onOpen)
             .$on("ok",function(){
                 console.log("点击了确定按钮");
             });
