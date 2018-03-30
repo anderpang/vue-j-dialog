@@ -87,6 +87,10 @@ export default {
                 console.log("点击了确定按钮");
             });
        }
+    },
+    
+    components:{
+       ShowDialog
     }
 }
 </script>
